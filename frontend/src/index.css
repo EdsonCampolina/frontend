@@ -1,0 +1,23 @@
+body {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: hsl(0, 0%, 96%);
+    color: #000;
+  }
+  a {
+    color: #e88cd2;
+    text-decoration: none;
+  }
+  
+  .active {
+    font-weight: bold;
+  }
+  
+  ul {
+    list-style: none;
+  }
+.noauth{
+  background: linear-gradient( 120deg, #800080, #551054, #2d102c );
+}
